@@ -83,7 +83,7 @@ python gerador_contrato.py
 
 ---
 
-**Desenvolvido por [Seu Nome/GitHub]** 🚀
+**Desenvolvido por Francisco José Dos Santos** 🚀
 
 ---
 

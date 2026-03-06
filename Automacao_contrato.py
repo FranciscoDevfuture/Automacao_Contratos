@@ -11,8 +11,8 @@ import platform
 
 # --- CONFIGURAÇÕES DE EMAIL ---
 # Se usar Gmail, gere uma "Senha de App" nas configurações da sua conta Google
-MEU_EMAIL = "franco.jose.santos@gmail.com"
-MINHA_SENHA = "zstz bcpd wqqp mjfc" 
+MEU_EMAIL = "seu_email"
+MINHA_SENHA = "sua_senha_app" 
 
 def limpar_tela():
     if platform.system() == "Windows":
